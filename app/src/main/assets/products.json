@@ -1,0 +1,316 @@
+[
+  {
+    "id": 1,
+    "name": "Gaming Laptop",
+    "price": 1199.99,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Computers",
+    "specification": "A high-end gaming laptop with Intel Core i7, NVIDIA RTX 3060, 16GB RAM, and 512GB SSD."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 799.99,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1495435229349-e86db7bfa013?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Mobile Phones",
+    "specification": "Latest smartphone with Snapdragon processor, 8GB RAM, 128GB storage, and AMOLED display."
+  },
+  {
+    "id": 3,
+    "name": "Wireless Earbuds",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1573496529574-be87fabf2a50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Audio",
+    "specification": "Noise-canceling wireless earbuds with 24-hour battery life and quick charging."
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 249.99,
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1583422405603-28b1a75b009c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Wearables",
+    "specification": "Fitness-focused smartwatch with heart rate monitoring, GPS, and customizable watch faces."
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 129.99,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1581589305098-8800a6f1af5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Audio",
+    "specification": "Portable Bluetooth speaker with 12-hour battery life and waterproof design."
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard",
+    "price": 99.99,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1555617117-08a74d099e9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Accessories",
+    "specification": "RGB backlit mechanical keyboard with customizable macros and tactile switches."
+  },
+  {
+    "id": 7,
+    "name": "Noise-Canceling Headphones",
+    "price": 299.99,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1592462761928-4f2ed57b9480?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Audio",
+    "specification": "Over-ear noise-canceling headphones with 30-hour battery life and voice assistant integration."
+  },
+  {
+    "id": 8,
+    "name": "Action Camera",
+    "price": 399.99,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1600785152240-71652c3d23f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Cameras",
+    "specification": "4K action camera with waterproof casing and image stabilization for adventure recording."
+  },
+  {
+    "id": 9,
+    "name": "Drone",
+    "price": 599.99,
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1528459105426-b0fade12b266?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Cameras",
+    "specification": "Compact drone with 4K camera, GPS, and obstacle detection for smooth aerial photography."
+  },
+  {
+    "id": 10,
+    "name": "Smart Home Hub",
+    "price": 129.99,
+    "rating": 4.2,
+    "imageUrl": "https://images.unsplash.com/photo-1586880244411-3e94662b672b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Smart Home",
+    "specification": "Voice-controlled smart home hub with compatibility for various IoT devices."
+  },
+  {
+    "id": 11,
+    "name": "Tablet",
+    "price": 499.99,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1512499617640-c2f99956b8b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Tablets",
+    "specification": "10-inch tablet with high-resolution display, 8GB RAM, and stylus support."
+  },
+  {
+    "id": 12,
+    "name": "Wireless Charger",
+    "price": 59.99,
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1588459469190-0b64756d466b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Accessories",
+    "specification": "Fast wireless charger compatible with all Qi-enabled devices."
+  },
+  {
+    "id": 13,
+    "name": "4K UHD TV",
+    "price": 1499.99,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1592725420137-a38160b601c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Televisions",
+    "specification": "65-inch 4K UHD TV with HDR support, smart functionality, and voice control."
+  },
+  {
+    "id": 14,
+    "name": "Fitness Tracker",
+    "price": 99.99,
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1518459031867-a89b944bffe1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Wearables",
+    "specification": "Lightweight fitness tracker with sleep monitoring, step tracking, and heart rate sensor."
+  },
+  {
+    "id": 15,
+    "name": "Gaming Mouse",
+    "price": 59.99,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1591289403720-b3c727cd1248?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Accessories",
+    "specification": "RGB gaming mouse with adjustable DPI and programmable buttons for an enhanced gaming experience."
+  },
+  {
+    "id": 16,
+    "name": "VR Headset",
+    "price": 349.99,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1605171001687-d0c29d2390b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Gaming",
+    "specification": "Virtual reality headset with motion tracking and high-definition display for immersive gaming."
+  },
+  {
+    "id": 17,
+    "name": "Laptop Stand",
+    "price": 39.99,
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1523297731320-593d8a08c5f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Accessories",
+    "specification": "Adjustable laptop stand with cooling fan and ergonomic design."
+  },
+  {
+    "id": 18,
+    "name": "External SSD",
+    "price": 149.99,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1518824422982-d8147f6a8c9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Storage",
+    "specification": "1TB external SSD with fast data transfer speeds and durable design."
+  },
+  {
+    "id": 19,
+    "name": "Smart Thermostat",
+    "price": 199.99,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1596991211667-0bbbc0d9b68e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Smart Home",
+    "specification": "Smart thermostat with energy-saving features and remote control via app."
+  },
+  {
+    "id": 20,
+    "name": "Electric Scooter",
+    "price": 499.99,
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1589739903517-d0ea7c4e8f41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Transportation",
+    "specification": "Foldable electric scooter with a top speed of 15 mph and 20-mile range."
+  },
+  {
+    "id": 21,
+    "name": "E-Reader",
+    "price": 129.99,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1537457295039-97c755a4963d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Tablets",
+    "specification": "Lightweight e-reader with high-contrast display and weeks-long battery life."
+  },
+  {
+    "id": 22,
+    "name": "Home Security Camera",
+    "price": 199.99,
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1600121849459-58aa258ee65e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Security",
+    "specification": "Wi-Fi security camera with motion detection and cloud storage."
+  },
+  {
+    "id": 23,
+    "name": "Projector",
+    "price": 299.99,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Displays",
+    "specification": "Portable projector with 1080p resolution and HDMI compatibility for home theater setup."
+  },
+  {
+    "id": 24,
+    "name": "Gaming Chair",
+    "price": 229.99,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Furniture",
+    "specification": "Ergonomic gaming chair with adjustable armrests, lumbar support, and reclining backrest."
+  },
+  {
+    "id": 25,
+    "name": "Robot Vacuum",
+    "price": 399.99,
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1609380670198-6e0e4df71c17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Smart Home",
+    "specification": "Robot vacuum with mapping technology and scheduled cleaning via mobile app."
+  },
+  {
+    "id": 26,
+    "name": "Portable Power Bank",
+    "price": 49.99,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1605705998492-503e9e1c55cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Accessories",
+    "specification": "10,000mAh power bank with fast charging and multiple USB ports."
+  },
+  {
+    "id": 27,
+    "name": "Smart Light Bulbs",
+    "price": 59.99,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1600645279040-90986fe7b56b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Smart Home",
+    "specification": "Color-changing smart light bulbs compatible with voice assistants and smartphone control."
+  },
+  {
+    "id": 28,
+    "name": "Desktop Computer",
+    "price": 1499.99,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1593642532400-2682810df593?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Computers",
+    "specification": "High-performance desktop computer with Intel Core i9, 32GB RAM, and 1TB SSD."
+  },
+  {
+    "id": 29,
+    "name": "Bluetooth Tracker",
+    "price": 29.99,
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1627844549578-1c5133e0fb5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Accessories",
+    "specification": "Compact Bluetooth tracker to keep track of your belongings with smartphone integration."
+  },
+  {
+    "id": 30,
+    "name": "Smart Doorbell",
+    "price": 149.99,
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1574169208507-843761748ce5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Security",
+    "specification": "Smart doorbell with HD video, two-way audio, and motion detection alerts."
+  },
+  {
+    "id": 31,
+    "name": "Electric Bike",
+    "price": 999.99,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1616639898254-1e548eb9ac82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Transportation",
+    "specification": "Electric bike with pedal assist and a range of 40 miles on a single charge."
+  },
+  {
+    "id": 32,
+    "name": "Smart Coffee Maker",
+    "price": 199.99,
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1512113569142-73e1c8a1d4e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Appliances",
+    "specification": "Smart coffee maker with voice control and programmable brewing schedules."
+  },
+  {
+    "id": 33,
+    "name": "Gaming Console",
+    "price": 499.99,
+    "rating": 4.9,
+    "imageUrl": "https://images.unsplash.com/photo-1605902711622-cfb43d9f48b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Gaming",
+    "specification": "Next-gen gaming console with 4K gaming support, fast load times, and large storage."
+  },
+  {
+    "id": 34,
+    "name": "Webcam",
+    "price": 79.99,
+    "rating": 4.2,
+    "imageUrl": "https://images.unsplash.com/photo-1600369674235-31c45bbab911?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Accessories",
+    "specification": "1080p webcam with autofocus and built-in microphone for video conferencing."
+  },
+  {
+    "id": 35,
+    "name": "Portable Projector",
+    "price": 249.99,
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1594984801822-1701baf798c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "category": "Displays",
+    "specification": "Portable mini projector with wireless screen mirroring"
+  }]
